@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+genz_aura.db
+.DS_Store
